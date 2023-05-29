@@ -1,0 +1,19 @@
+|------------------------------|
+| MANUEL D'UTILISATION - Akari |
+|------------------------------|
+
+
+Déplacements:
+-------------
+z           - Avancer vers l'avant
+q           - Avancer vers la gauche
+s           - Avancer vers l'arrière
+d           - Avancer vers la droite
+espace      - Sauter
+
+
+Intéractions:
+-------------
+clic gauche - Attaquer
+e           - Intéragir avec l'élément en face du personnage
+esc         - Pause

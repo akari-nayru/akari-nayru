@@ -1,0 +1,22 @@
+|-------------------------------|
+| MANUEL D'INSTALLATION - Akari |
+|-------------------------------|
+
+Installation:
+-------------
+
+1 - Lancez "Akari_1.1_Setup_x64.exe"
+2 - Choisissez le mode d'installation (Pour tous les utilisateurs / Pour moi seulement)
+3 - Choisissez la langue désirée et appuyer sur "OK".
+4 - Choisissez le dossier d'installation. Puis cliquez sur "suivant"
+5 - Cochez la case "Créer une icône sur le bureau" si souhaitez. Cliquez sur "suivant"
+6 - Appuyez sur "Installer".
+7 - Attendez que les fichiers s'installent.
+8 - Décochez la case "Exécuter Akari" si vous ne voulez pas lancer le jeu de suite. Appuyer sur "Terminer"
+9 - Lancez le jeu et amusez-vous :)
+
+Désinstallation:
+----------------
+1. Ouvrez le fichier d'installation du jeu
+2. Exécutez "unins000.exe"
+3. Une fenêtre vous demande si vous voulez supprimer tous les composants du jeu. Sélectionnez "oui"
